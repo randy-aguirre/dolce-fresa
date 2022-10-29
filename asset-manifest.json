@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/randy-aguirre/dolce-fresa/static/css/main.efb6491a.css",
+    "main.js": "/randy-aguirre/dolce-fresa/static/js/main.2e75170d.js",
+    "static/js/787.2cbf2d47.chunk.js": "/randy-aguirre/dolce-fresa/static/js/787.2cbf2d47.chunk.js",
+    "static/media/orders-background-desktop.jpg": "/randy-aguirre/dolce-fresa/static/media/orders-background-desktop.27a72eb75fd6c357ce66.jpg",
+    "static/media/orders-background-mobile.jpg": "/randy-aguirre/dolce-fresa/static/media/orders-background-mobile.eab92a540e19c0fc63a2.jpg",
+    "static/media/berry-background-small.jpg": "/randy-aguirre/dolce-fresa/static/media/berry-background-small.36cac692539a375289cd.jpg",
+    "static/media/PalanquinDark-SemiBold.ttf": "/randy-aguirre/dolce-fresa/static/media/PalanquinDark-SemiBold.850ab211f6efceb29b34.ttf",
+    "static/media/PalanquinDark-Medium.ttf": "/randy-aguirre/dolce-fresa/static/media/PalanquinDark-Medium.3d5a85bd8002811349b5.ttf",
+    "static/media/PalanquinDark-Bold.ttf": "/randy-aguirre/dolce-fresa/static/media/PalanquinDark-Bold.6f91c7e4cad4d25e965c.ttf",
+    "static/media/PalanquinDark-Regular.ttf": "/randy-aguirre/dolce-fresa/static/media/PalanquinDark-Regular.ec0481dc4a213e49d853.ttf",
+    "static/media/Signika-SemiBold.ttf": "/randy-aguirre/dolce-fresa/static/media/Signika-SemiBold.3484d82dca094604e163.ttf",
+    "static/media/Signika-Medium.ttf": "/randy-aguirre/dolce-fresa/static/media/Signika-Medium.d21bee501f5e287b69b0.ttf",
+    "static/media/Signika-Regular.ttf": "/randy-aguirre/dolce-fresa/static/media/Signika-Regular.74654bb1ba36a7752df3.ttf",
+    "static/media/Signika-Bold.ttf": "/randy-aguirre/dolce-fresa/static/media/Signika-Bold.4014d249d8b9a72bb3ef.ttf",
+    "static/media/Signika-Light.ttf": "/randy-aguirre/dolce-fresa/static/media/Signika-Light.89812b2297aa16be0376.ttf",
+    "static/media/fresas-con-crema-grande.jpg": "/randy-aguirre/dolce-fresa/static/media/fresas-con-crema-grande.ff2dd8451053c19f158b.jpg",
+    "static/media/Qwigley-Regular.ttf": "/randy-aguirre/dolce-fresa/static/media/Qwigley-Regular.8454255795c01dccadba.ttf",
+    "static/media/fresas-con-crema-sin-topping-pequeño.jpg": "/randy-aguirre/dolce-fresa/static/media/fresas-con-crema-sin-topping-pequeño.ec15ba6ad4fbb3203cab.jpg",
+    "static/media/logo.jpg": "/randy-aguirre/dolce-fresa/static/media/logo.4f3a51b456ca72261a92.jpg",
+    "index.html": "/randy-aguirre/dolce-fresa/index.html",
+    "main.efb6491a.css.map": "/randy-aguirre/dolce-fresa/static/css/main.efb6491a.css.map",
+    "main.2e75170d.js.map": "/randy-aguirre/dolce-fresa/static/js/main.2e75170d.js.map",
+    "787.2cbf2d47.chunk.js.map": "/randy-aguirre/dolce-fresa/static/js/787.2cbf2d47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efb6491a.css",
+    "static/js/main.2e75170d.js"
+  ]
+}
