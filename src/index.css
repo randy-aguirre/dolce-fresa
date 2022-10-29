@@ -1,13 +1,87 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu',
+    'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  height: 100vh;
+  width: 100vw;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+#root {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+@font-face {
+  font-family: 'SignikaBold';
+  src: url('fonts/Signika-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'SignikaLight';
+  src: url('fonts/Signika-Light.ttf');
+}
+
+@font-face {
+  font-family: 'SignikaMedium';
+  src: url('fonts/Signika-Medium.ttf');
+}
+
+@font-face {
+  font-family: 'SignikaRegular';
+  src: url('fonts/Signika-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'SignikaSemiBold';
+  src: url('fonts/Signika-SemiBold.ttf');
+}
+
+@font-face {
+  font-family: 'QwigleyRegular';
+  src: url('fonts/Qwigley-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'PalanquinDarkBold';
+  src: url('fonts/PalanquinDark-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'PalanquinDarkMedium';
+  src: url('fonts/PalanquinDark-Medium.ttf');
+}
+
+@font-face {
+  font-family: 'PalanquinDarkRegular';
+  src: url('fonts/PalanquinDark-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'PalanquinDarkSemiBold';
+  src: url('fonts/PalanquinDark-SemiBold.ttf');
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+/* ::-webkit-scrollbar-track {
+  background: #f1f1f1;
+} */
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #36281b;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
 }
